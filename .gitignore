@@ -1,0 +1,20 @@
+# Directories
+.vscode/
+.vs/
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Releases/
+Saved/
+
+
+# Files
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
