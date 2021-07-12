@@ -1,4 +1,4 @@
-# Lost Marble [![License](https://img.shields.io/github/license/AmirrezaPayandeh/LostMarble?color=009000&style=flat-square)](https://github.com/AmirrezaPayandeh/LostMarble/blob/master/LICENSE)
+# Lost Marble [![License](https://img.shields.io/github/license/AmirrezaPayandeh/LostMarble?color=0000ff&style=flat-square)](https://github.com/AmirrezaPayandeh/LostMarble/blob/master/LICENSE)
 
 <div align="center">
 
